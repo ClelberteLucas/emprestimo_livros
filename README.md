@@ -7,6 +7,9 @@ Esse projeto de extensão é sem fins lucrativos, e tem como objetivo aplicar o 
 Esse projeto software tem o objetivo de criar uma interface GUI, utilizando a linguagem python (Biblioteca tkinter), para interagir com um banco de dados no postgreSQL, através da biblioteca Psycopg2.
 o software vai servir para a gestão de livros na biblioteca escolar.
 Essa aplicação serve para controle e empréstimo de livros.
+Para a aplicação funcionar será necessario a instalação do POSTGRESQL, O INTERPRETADOR PYTHON e, a biblioteca TKINTER e psycopg2
+
+
 ------------------principal_registros------------------------
  O arquivo principal_registros tem todas as configurações da janela de interação USUARIOxBANCO DE DADOS: Botões, funcões de manipulação de informações no banco de dados e o layout da janela
 
